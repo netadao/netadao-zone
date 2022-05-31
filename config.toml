@@ -1,0 +1,20 @@
+baseURL = "https://netadao.zone/"
+languageCode = "en-us"
+title = "NETA DAO"
+theme = "hugograyscale"
+disableKinds = ["taxonomy", "taxonomyTerm"]
+
+[params]
+    description = "The Community Accelerator - A DAO on Juno Network"
+
+[Author]
+    name = "NETA DAO"
+    email = "netadao@protonmail.com"
+
+[Social]
+    twitter = "NETA_DAO"
+
+[markup]
+[markup.goldmark]
+[markup.goldmark.rendered]
+unsafe = true
