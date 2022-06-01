@@ -137,7 +137,6 @@ header p {
 .improve-contrast-box {
   background: rgba(0, 0, 0, .5);
   border-radius: 5px;
-  text-shadow: 0px 0px 8px rgba(0, 0, 0, 1);
 }
 
 @media (min-width: 768px) {
@@ -249,6 +248,7 @@ footer {
 footer p {
   font-size: 14px;
   margin: 0;
+  text-align: center !important;
 }
 
 ::selection {
@@ -262,7 +262,7 @@ img::selection {
 }
 
 
-.text-center{text-align: left !important;}
+.text-center { text-align: left !important; }
 blockquote {
 	margin: 20px 0 30px;
 	padding-left: 20px;

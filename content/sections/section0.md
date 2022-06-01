@@ -11,5 +11,5 @@ The Community Accelerator
 {{< socialhandles >}}
     {{< twitter user="Neta_DAO" >}}
     {{< github user="netadao" >}}
-    {{< discord user="J89B5tN3dA" >}}
+    {{< discord user="gvjC86WXC2" >}}
 {{< /socialhandles >}}
