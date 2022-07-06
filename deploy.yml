@@ -8,6 +8,7 @@ services:
         as: 80
         accept:
           - netadao.zone
+          - www.netadao.zone
         to:
           - global: true
 
@@ -23,8 +24,6 @@ profiles:
           size: 256Mi
   placement:
     akash:
-      attributes:
-        host: akash
       signedBy:
         anyOf:
           - "akash1365yvmc4s7awdyj3n2sav7xfx76adc6dnmlx63"
