@@ -1,6 +1,6 @@
 baseURL = "https://netadao.zone/"
 languageCode = "en-us"
-title = "NETA DAO"
+title = "Neta DAO"
 theme = "hugograyscale"
 disableKinds = ["taxonomy", "taxonomyTerm"]
 
@@ -8,11 +8,11 @@ disableKinds = ["taxonomy", "taxonomyTerm"]
     description = "The Community Accelerator - A DAO on Juno Network"
 
 [Author]
-    name = "NETA DAO"
+    name = "Neta DAO"
     email = "netadao@protonmail.com"
 
 [Social]
-    twitter = "NETA_DAO"
+    twitter = "Neta_DAO"
 
 [markup]
 [markup.goldmark]

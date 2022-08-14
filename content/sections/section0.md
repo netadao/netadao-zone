@@ -1,15 +1,17 @@
 ---
 title: "Header"
-weight: 1
+weight: 0
 improvecontrast: true
 ---
 
-# NETA DAO
+# Neta DAO
 
 The Community Accelerator
 
 {{< socialhandles >}}
-    {{< twitter user="Neta_DAO" >}}
+	{{< dao id="juno1c5v6jkmre5xa9vf9aas6yxewc7aqmjy0rlkkyk4d88pnwuhclyhsrhhns6" >}}
+    {{< discord >}}
     {{< github user="netadao" >}}
-    {{< discord user="gvjC86WXC2" >}}
+    {{< twitter user="Neta_DAO" >}}
+    {{< wiki >}}
 {{< /socialhandles >}}
