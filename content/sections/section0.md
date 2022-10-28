@@ -14,4 +14,8 @@ The Community Accelerator
     {{< github user="netadao" >}}
     {{< twitter user="Neta_DAO" >}}
     {{< wiki >}}
+    {{ <br> }}
+    {{< juno >}}
+    {{< akash >}}
+    {{< jackal >}}
 {{< /socialhandles >}}
